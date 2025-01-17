@@ -14,4 +14,4 @@
    
 4. Написать генератор, аналогичный генератору из задания 2, но обрабатывающий списки с любым уровнем вложенности.
    
-   Файл с кодом: *["generator_2.py"](https://github.com/graffsmile/Iter_Gen/blob/main/generator_2_py)*
+   Файл с кодом: *["generator_2.py"](https://github.com/graffsmile/Iter_Gen/blob/main/generator_2.py)*
